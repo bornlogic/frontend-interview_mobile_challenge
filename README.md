@@ -40,7 +40,7 @@ Let's pretend we launched a "Movie Guide Service".
 
 Your first objective as an android developer is to help us to build a friendly app for easily and fastly movies discovery.
 
-> Keep Calm, do as much as you can, but keep in mind that you have up to 7 days to complete the challenge.
+> Keep Calm, do as much as you can, but keep in mind that you have up to 15 days to complete the challenge.
 
 ## Development Requirements
 
