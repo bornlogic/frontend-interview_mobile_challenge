@@ -67,8 +67,8 @@ Objectves:
  - Use "video player" for trailers in detail
  - Build a way to favorite some movies
  - It must be able to filter by favorited movies
- - All movies' data must be storage on device locally. It means that users can use the app offline after first access
- - Update local stored list of movies frequenty if online while connected to wifi-only
+ - All displayed movies' data must be storage on device locally. It means that users can use the app offline after first access
+ - Update top rated and latests movies list in local stored frequenty if online while connected to wifi-only
 
 ## Step Three
 You can use any libraries to complete challenge, but it will be great if you choose these libs:
