@@ -62,13 +62,13 @@ You must connect and get movies data.
 It's show time! Remember, build essencial components for each reusable part of your app, such us lists and detail infos.
 Objectves:
  
- - display the cover image of a list of movies ordering by "latest" or "top rated" in a grid layout
- - click on each movie and open details (title, year, synopsis, cast, trailer and any other you liked)
- - Use "video player" for trailers in detail
- - Build a way to favorite some movies
- - It must be able to filter by favorited movies
- - All displayed movies' data must be storage on device locally. It means that users can use the app offline after first access
- - Update top rated and latests movies list in local stored frequenty if online while connected to wifi-only
+- Display the cover image of a list of movies ordering by "latest" or "top rated" in a grid layout
+- Clicking on each movie should open details (title, year, synopsis, cast, trailer and any other you liked)
+- Build favorite movies feature
+- It must be able to filter by favorited movies
+- Use "video player" for trailers in detail.
+- All displayed movies' data must be storage on device locally. It means that users can use the app offline after first access
+- Update "top rated" and "latests movies" list in local stored frequenty if online while connected to wifi-only
 
 ## Step Three
 You can use any libraries to complete challenge, but it will be great if you choose these libs:
