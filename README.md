@@ -49,7 +49,7 @@ Your first objective as an android developer is to help us to build a friendly a
 - Java
 - Kotlin Multiplatform
 - Flutter
-- Reactive Native
+- React Native
 
 ### Should my code be automated tested?
 - No. But you will need do that at bornlogic. Try it.
