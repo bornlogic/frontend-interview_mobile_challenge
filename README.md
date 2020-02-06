@@ -36,21 +36,50 @@ You can open an issue at any time if you have any questions.
 
 # Let's get started
 
+Let's pretend we launched a "Movie Guide Service". 
+
+Your first objective as an android developer is to help us to build a friendly app for easily and fastly movies discovery.
 
 > Keep Calm, do as much as you can, but keep in mind that you have up to 7 days to complete the challenge.
 
 ## Development Requirements
 
 ### Which technologies can I use?
-
+- Kotlin
+- Java
+- Kotlin Multiplatform
+- Flutter
+- Reactive Native
 
 ### Should my code be automated tested?
-- Yes.
+- No. But you will need do that at bornlogic. Try it.
 
-### Step One
+## Step One
+Use a wrapper for rest connection to the API (https://www.themoviedb.org/documentation/api). You can use an existed one or create your own.
+You must connect and get movies data.
 
 ## Step Two
+It's show time! Remember, build essencial components for each reusable part of your app, such us lists and detail infos.
+Objectves:
+ 
+ - display the cover image of a list of movies ordering by "latest" or "top rated" in a grid layout
+ - click on each movie and open details (title, year, synopsis, cast, trailer and any other you liked)
+ - Use "video player" for trailers in detail
+ - Build a way to favorite some movies
+ - It must be able to filter by favorited movies
+ - All movies' data must be storage on device locally. It means that users can use the app offline after first access
+ - Update local stored list of movies frequenty if online while connected to wifi-only
 
 ## Step Three
+You can use any libraries to complete challenge, but it will be great if you choose these libs:
+- Android room (https://developer.android.com/jetpack/androidx/releases/room)
+- Retrofit (https://square.github.io/retrofit/)
+- Android volley (https://developer.android.com/training/volley)
+- Espresso (https://developer.android.com/training/testing/espresso/index.html)
 
-## BONUS
+
+## Which are the main aspects we'll be evaluating in your code:
+
+- Clean Code
+- How far can you go through the challenge
+- Bug count
