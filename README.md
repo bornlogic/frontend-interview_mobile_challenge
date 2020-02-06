@@ -60,7 +60,7 @@ You must connect and get movies data.
 
 ## Step Two
 It's show time! Remember, build essencial components for each reusable part of your app, such us lists and detail infos.
-Objectves:
+Objectives:
  
 - Display the cover image of a list of movies ordering by "latest" or "top rated" in a grid layout
 - Clicking on each movie should open details (title, year, synopsis, cast, trailer and any other you liked)
